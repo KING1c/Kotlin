@@ -1,0 +1,14 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "author": "БТПИТ",
+      "authorAvatar": "@drawable/btpitlogo300",
+      "published": "1 мая в 11:11",
+      "content": "Post",
+      "likedByMe": true,
+      "likes": 111
+    }
+  ]
+}
+
